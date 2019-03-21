@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_title" type="id" />
+    <item name="edt_description" type="id" />
+    <item name="btn_submit" type="id" />
+    <item name="action_delete" type="id" />
+</resources>
